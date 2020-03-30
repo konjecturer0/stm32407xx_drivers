@@ -1,0 +1,12 @@
+core_cm4.h:1629:22:NVIC_SetPriority	16	static
+009command_spi_it.c:51:6:delay	16	static
+009command_spi_it.c:56:6:SPI2_GPIOInits	24	static
+009command_spi_it.c:88:6:SPI2_Inits	8	static
+009command_spi_it.c:108:6:GPIO_ButtonInit	24	static
+009command_spi_it.c:180:5:main	16	static
+009command_spi_it.c:224:9:SPI_VerifyResponse	16	static
+009command_spi_it.c:236:6:setupCommunication	16	static
+009command_spi_it.c:254:6:SPI2_IRQHandler	8	static
+009command_spi_it.c:258:6:EXTI0_IRQHandler	8	static
+009command_spi_it.c:283:6:executeCommand	24	static
+009command_spi_it.c:315:6:SPI_ApplicationEventCallback	16	static
